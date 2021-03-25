@@ -1,4 +1,4 @@
-module marins-glib
+module github.com/marin/marins-glib
 
 go 1.14
 
